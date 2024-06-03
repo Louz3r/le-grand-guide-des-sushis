@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #C75146;
+  border-radius: 15px;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+  text-decoration: none;
+}
+
+.link {
+  margin: 5px 30px;
+  color: #faf7f5;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.link:hover {
+  color: #21201f;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.logo{
+  width: 10%;
+  height: 10%;
+}

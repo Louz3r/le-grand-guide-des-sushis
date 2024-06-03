@@ -1,0 +1,84 @@
+@import url(components/card.css);
+@import url(components/button.css);
+@import url(components/navbar.css);
+
+
+h1, h2{
+  color: #faf7f5;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+
+body {
+  background: #21201f;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #faf7f5;
+}
+
+#header{
+	margin: 30px;
+	padding: 5px;
+}
+
+
+.intro{
+	display: flex;
+	justify-content: center;
+  padding: 50px 0px 0px 0px;
+}
+
+.div-intro{
+	display: flex;
+	justify-content: center;
+	width: 350px;
+}
+
+.text-intro{
+	width: 600px ;
+	height: 75px ;
+	margin-top: 10px;
+}
+
+
+.intro-img{
+	width: 55%;
+	height: 80%;
+	border-radius: 20px;
+	display: flex;
+	justify-content: center;
+}
+
+.recette-sushis{
+	padding: 30px;
+	margin: 30px;
+}
+
+.youtube-vid{
+	background-color: #faf7f5;
+	padding: 35px;
+	margin: 70px auto;
+	display: flex;
+	justify-content: center;
+	border-radius: 25px;
+  width: 560px;
+}
+
+.vid{
+	display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.video{
+	display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
